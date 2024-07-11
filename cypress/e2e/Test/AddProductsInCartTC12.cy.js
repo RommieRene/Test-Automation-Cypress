@@ -29,6 +29,7 @@ describe('Add Products in Cart', () => {
         cart.product2visibility();
         cart.totalPriceverification();
 
+
     })
 })
 
